@@ -1,0 +1,12 @@
+Pillow
+gunicorn==20.1.0
+Flask==1.1.2
+Flask-Cors==3.0.10
+tensorboard
+tensorflow-cpu==2.1.0
+numpy==1.19.5
+pandas
+h5py==2.10.0
+pandas-datareader
+pandocfilters==1.4.2
+opencv-contrib-python-headless==4.5.2.52
